@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 35,
+  "terminal.integrated.fontSize":30,
+  "editor.minimap.enabled": false,
+  "window.zoomLevel": 1,
+  "editor.wordWrap": "on"
+}
